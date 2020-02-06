@@ -1,7 +1,10 @@
-public static void main(String[] args)
+public class Hello
 {
-  for(int i=1;i<=13;i++)
-  {
-    System.out.println("Hello World..."+i);
-  }
+public static void main(String[] args)
+ {
+   for(int i=1;i<=13;i++)
+   {
+     System.out.println("Hello World..."+i);
+   }
+ }
 }
